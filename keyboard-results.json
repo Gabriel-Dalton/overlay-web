@@ -1,0 +1,42 @@
+[
+  {
+    "scenario": "Cancel + Enter",
+    "confirmed": 0,
+    "cancelled": 1
+  },
+  {
+    "scenario": "Cancel + Space",
+    "confirmed": 0,
+    "cancelled": 1
+  },
+  {
+    "scenario": "Delete + Enter",
+    "confirmed": 1,
+    "cancelled": 0
+  },
+  {
+    "scenario": "Delete + Space",
+    "confirmed": 1,
+    "cancelled": 0
+  },
+  {
+    "scenario": "Escape",
+    "confirmed": 0,
+    "cancelled": 1
+  },
+  {
+    "scenario": "Busy + Enter",
+    "confirmed": 0,
+    "cancelled": 0
+  },
+  {
+    "scenario": "Busy + Space",
+    "confirmed": 0,
+    "cancelled": 0
+  },
+  {
+    "scenario": "Busy + Escape",
+    "confirmed": 0,
+    "cancelled": 0
+  }
+]

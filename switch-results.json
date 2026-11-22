@@ -1,0 +1,10 @@
+{
+  "snapshots": [
+    "- switch \"Auto-continue\"",
+    "- switch \"Only allow ZDR models\" [checked] [disabled]"
+  ],
+  "spaceTurnsOn": true,
+  "enterTurnsOff": true,
+  "disabledRemainsChecked": true,
+  "errors": []
+}
